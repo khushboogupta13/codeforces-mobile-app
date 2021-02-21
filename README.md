@@ -33,3 +33,9 @@ https://github.com/khushboogupta13/codeforces-mobile-app
 
 ## Installing the prerequisites:
 
+1. Download the Android IDE: Android Studio 
+  a. Optional: Install the Android SDK: ``` brew install android-sdk ``` , Select the SDK that ```brew``` logged out back in the previous command
+2. Open this project with in Android Studio IDE
+3. The IDE will complain about *"Gradle sync failed".* Just follow what it says.
+4. Once the IDE stops giving suggestions go to **Tools -> Android -> SDK Manager** and do what the SDK Manager says.
+5. Once the SDK Manager stops giving suggestions, use it to install the Google Repository and the Android Support Repository.
