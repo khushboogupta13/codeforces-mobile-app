@@ -10,7 +10,7 @@ This project was made under the WooTech 2021 Mentorship program.
 
 ## Overview of the App: 
 
-|<img src="https://i.imgur.com/moSjmxR.png" width="500px" height="600px"> |<img src="https://i.imgur.com/cj4I15B.png">|
+|<img src="https://i.imgur.com/moSjmxR.png" width="700px" height="600px"> |<img src="https://i.imgur.com/cj4I15B.png" width="700px" height="600px">|
 | ------------------------------------------ | ----------------------------------------- |
 
 ## How do you use this repository?
