@@ -10,7 +10,12 @@ This project was made under the WooTech 2021 Mentorship program.
 
 ## Overview of the App: 
 
-
-|<img src="https://drive.google.com/drive/u/1/folders/1a5ll70lS4Ai-KhYdOV3mtpd1OW8dQCC_"> |<img src="https://drive.google.com/drive/u/1/folders/1a5ll70lS4Ai-KhYdOV3mtpd1OW8dQCC_">|
+|<img src=""> |<img src="https://imgur.com/cj4I15B">|
 | ------------------------------------------ | ----------------------------------------- |
+
+## How do you use this repository?
+Clone or download this repo<br>
+```
+https://github.com/khushboogupta13/codeforces-mobile-app
+```
 
