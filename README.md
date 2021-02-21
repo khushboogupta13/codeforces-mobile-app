@@ -17,7 +17,7 @@ The 2 main fragments are of the Upcoming Contests and the Profile Fragment. The 
 
 After entering the username, the user can then navigate to the recent submissions and rating chnages fragment of the user whose username has been entered.
 
-| <img src="https://i.imgur.com/r7cQEBw.png" width="600px" height="800px">|
+| <img src="https://i.imgur.com/r7cQEBw.png" width="500px" height="800px">|
 | ------------------------------------------ |
 
 In the Recent Submissions fragemnt, all the recent submissions of the user can be seen along with their verdict, runtime, language, number of test cases passed and the time of submission. In the Rating Changes fragment, all the rated contests in which the user has participated can be seen along with the rating change, rank and date of update of rating. 
