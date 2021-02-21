@@ -12,7 +12,7 @@ This project was made under the WooTech 2021 Mentorship program.
 
 The 2 main fragments are of the Upcoming Contests and the Profile Fragment. The Upcoming Contest Fragment shows the upcoming contests with the most reccent contest at the top. The profile fragment contains a card where the user can enter the codeforces username of the person whose progress he wants to track. The user can also view the rating changes and recent submissions. 
 
-|<img src="https://i.imgur.com/moSjmxR.png"> |<img src="https://i.imgur.com/cj4I15B.png">|
+|<img src="https://i.imgur.com/moSjmxR.png" width="300"> |<img src="https://i.imgur.com/cj4I15B.png" width="300">|
 | ------------------------------------------ | ----------------------------------------- |
 
 After entering the username, the user can then navigate to the recent submissions and rating chnages fragment of the user whose username has been entered.
@@ -22,7 +22,7 @@ After entering the username, the user can then navigate to the recent submission
 
 In the Recent Submissions fragemnt, all the recent submissions of the user can be seen along with their verdict, runtime, language, number of test cases passed and the time of submission. In the Rating Changes fragment, all the rated contests in which the user has participated can be seen along with the rating change, rank and date of update of rating. 
 
-|<img src="https://i.imgur.com/JlDXmwC.png"> |<img src="https://i.imgur.com/E40ZGix.png">|
+|<img src="https://i.imgur.com/JlDXmwC.png" width="300"> |<img src="https://i.imgur.com/E40ZGix.png" width="300">|
 | ------------------------------------------ | ----------------------------------------- |
 
 ## How do you use this repository?
